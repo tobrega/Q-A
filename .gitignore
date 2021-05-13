@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# database login info
+config.js
+
+# raw csv data
+data
+
+# ec2 instance pem
+tobrega.pem
